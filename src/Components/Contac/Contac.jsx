@@ -5,12 +5,12 @@ const Contac = () => {
             <div className="contac-Container">
                 <div className="contact-info">
                     <h2><span class="material-symbols-outlined">forward_to_inbox</span> Contactame</h2>
-                    <p>Si tienes alguna oferta, propuesta de negocio, o simplemente quieres conectarte, no dudes en contactarme a través de mis redes sociales. Para una respuesta más rápida, puedes enviarme un correo electrónico a santiagotq2@gmail.com. ¡Estaré encantado de saber de ti y responder lo antes posible!
+                    <p>Si tienes alguna oferta, propuesta de negocio, o simplemente quieres conectarte, no dudes en contactarme a través de mis redes sociales. Para una respuesta más rápida, puedes enviarme un correo electrónico a garsharik14@gmail.com. ¡Estaré encantada de saber de ti y responder lo antes posible!
                     </p>
                 </div>
                 <div className="contac-nav">
                     <button className="button">
-                        <a href="https://www.instagram.com/tonguiino/" target="_blank">
+                        <a href="https://www.instagram.com/sharikg_/" target="_blank">
                             <svg
                                 viewBox="0 0 24 24"
                                 fill="none"
@@ -30,7 +30,7 @@ const Contac = () => {
                         </a>
                     </button>
                     <button className="button">
-                        <a href="https://api.whatsapp.com/send/?phone=%2B573008166510&text&type=phone_number&app_absent=0" target="_blank">
+                        <a href="https://api.whatsapp.com/send/?phone=%2B573103860156&text&type=phone_number&app_absent=0" target="_blank">
                             <svg
                                 viewBox="0 0 24 24"
                                 fill="none"
@@ -54,7 +54,7 @@ const Contac = () => {
                         </a>
                     </button>
                     <button className="button">
-                        <a href="https://github.com/tonguiino" target="_blank">
+                        <a href="https://github.com/sharikgalvis0" target="_blank">
                             <svg
                                 viewBox="0 0 24 24"
                                 fill="currentColor"

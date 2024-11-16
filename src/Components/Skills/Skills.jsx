@@ -3,12 +3,12 @@ import htmlImg from "../../assets/img/html5_logo.png"
 import cssImg from "../../assets/img/CSS3_logo.png"
 import jsImg from "../../assets/img/Js_logo.png"
 import reactImg from "../../assets/img/React_logo.png"
-import sassImg from "../../assets/img/Sass_logo.png"
 import wordPressImg from "../../assets/img/wordPress_logo.png"
 import gitImg from "../../assets/img/Git_logo.png"
 import gitHubImg from "../../assets/img/GitHubLogo.svg"
 import visualCodeImg from "../../assets/img/Vscode_logo.png"
 import npmImg from "../../assets/img/npm_logo.png"
+
 
 const Skills = () => {
     return (
@@ -27,7 +27,6 @@ const Skills = () => {
                         <img src={cssImg} alt="Logo Css" title="Logo Css"/>
                         <img src={jsImg} alt="Logo Javascript" title="Logo Javascript"/>
                         <img src={reactImg} alt="Logo React" title="Logo React"/>
-                        <img src={sassImg} alt="Logo Sass" title="Logo Sass"/>
                         <img src={wordPressImg} alt="Logo WordPreds" title="Logo WordPreds" />
                     </div>
                 </div>

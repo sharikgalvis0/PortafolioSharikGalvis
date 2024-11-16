@@ -8,7 +8,7 @@ const Footer = () => {
 
     return (
         <footer>
-            <p>&copy; {year} Santiago Tonguino. Todos los derechos reservados.</p>
+            <p>&copy; {year} Sharik Galvis. Todos los derechos reservados.</p>
         </footer>
     )
 

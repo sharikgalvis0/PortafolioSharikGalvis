@@ -6,11 +6,8 @@
   box-sizing: border-box;
 
   body {
-    background: rgb(20, 19, 59);
-    background: -moz-radial-gradient(circle, rgba(20, 19, 59, 1) 0%, rgba(2, 0, 36, 1) 94%, rgba(2, 0, 36, 1) 100%);
-    background: -webkit-radial-gradient(circle, rgba(20, 19, 59, 1) 0%, rgba(2, 0, 36, 1) 94%, rgba(2, 0, 36, 1) 100%);
-    background: radial-gradient(circle, rgb(20, 19, 59) 0%, rgba(2, 0, 36, 1) 94%, rgba(2, 0, 36, 1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#14133b", endColorstr="#020024", GradientType=1);
+    background: rgb(148,187,233);
+    background: radial-gradient(circle, rgba(148,187,233,1) 0%, rgba(238,174,202,1) 100%);
     justify-content: center;
 
     main {
@@ -55,8 +52,8 @@
       outline: none;
 
       &:hover {
-        background-color: #3cc7fb;
-        box-shadow: 0px 5px 20px rgba(60, 199, 251, 0.4);
+        background-color: #eeaeca;
+        box-shadow: 0px 5px 20px rgba(255, 255, 255, 0.4);
         color: #fff;
 
       }
