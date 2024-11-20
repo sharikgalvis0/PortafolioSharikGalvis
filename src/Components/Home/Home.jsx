@@ -23,7 +23,7 @@ const Home = () => {
                 <p>Me dedico al desarrollo web, enfocándome en construir sitios web atractivos y totalmente funcionales.
                     Mi conocimiento abarca las tecnologías esenciales como HTML5, CSS, JavaScript, C# y SQL server.</p>
                 <div className="prodfile-info-button">
-                    <Button text={<a href="https://drive.google.com/file/d/1YbLPll2FqawjixDK6CVL53jcUcTSNcJY/view" target="_blank">Visita mi cv</a>} />
+                    <Button text={<a href="https://www.canva.com/design/DAF0cwBefFo/oPuu7zrknhHT98ZNme67YA/edit?utm_content=DAF0cwBefFo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">Visita mi cv</a>} />
                     <Button text={<a href="https://www.linkedin.com/in/sharik-galvis-garzon-30a18a29b/" target="_blank" >LinkedIn</a>} />
                 </div>
             </div>

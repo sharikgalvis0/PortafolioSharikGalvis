@@ -8,6 +8,7 @@ import gitImg from "../../assets/img/Git_logo.png"
 import gitHubImg from "../../assets/img/GitHubLogo.svg"
 import visualCodeImg from "../../assets/img/Vscode_logo.png"
 import npmImg from "../../assets/img/npm_logo.png"
+import cishart from "../../assets/img/cishart_logo.png"
 
 
 const Skills = () => {
@@ -27,7 +28,7 @@ const Skills = () => {
                         <img src={cssImg} alt="Logo Css" title="Logo Css"/>
                         <img src={jsImg} alt="Logo Javascript" title="Logo Javascript"/>
                         <img src={reactImg} alt="Logo React" title="Logo React"/>
-                        <img src={wordPressImg} alt="Logo WordPreds" title="Logo WordPreds" />
+                        <img src={cishart} alt= "Logo cishart" tittel="Logo cishart"/>
                     </div>
                 </div>
                 <div className="skills-box-square">
